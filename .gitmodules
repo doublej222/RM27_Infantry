@@ -22,3 +22,6 @@
 [submodule "components/music"]
 	path = components/music
 	url = https://github.com/lym12321/tr_comp_music.git
+[submodule "components/robomaster"]
+	path = components/robomaster
+	url = https://github.com/lym12321/tr_comp_robomaster.git
